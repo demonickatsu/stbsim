@@ -1,0 +1,27 @@
+html {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.menu {
+  position: absolute;
+  top: 75%;
+  left: 0%;
+  right: 0%;
+  bottom: 0%;
+  height: auto;
+  width: auto;
+  padding: 15px 15px 15px 50px;
+  margin: 0px auto 0px auto;
+  background: rgba(65, 75, 125, 1.0);
+  background-image: url('./assets/menu.png');
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1.0);
+}
+.video {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
