@@ -13,3 +13,17 @@ https://getpaint.net/ for making the menu bar's background
 https://code.visualstudio.com/ for code editing
 
 https://youtube.com/@TVsFenwick/ as a reference
+
+to do:
+
+add clock
+
+make menu bar hide and show on click
+
+add audio toggle
+
+add m3u support
+
+add full IPTV and XMLTV support
+
+possibly add weatherscan
